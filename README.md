@@ -1,4 +1,4 @@
-# DipakD
-Personal Portfolio
+DipakD
+Personal Portfolio.
 For live Demo:
- https://dipakd290.github.io/DipakD/
+ # https://dipakd290.github.io/DipakD/
